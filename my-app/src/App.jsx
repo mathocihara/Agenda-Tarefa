@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import '../src/App.css';
-import AddTask from './componetes/AddsTask';
-import Tasks from './componetes/Tasks';
+import AddTask from './componentes/AddsTask.jsx';
+import Tasks from './componentes/Tasks.jsx';
 const App = () =>{
   const [tasks, setTasks ] = useState([{
 
