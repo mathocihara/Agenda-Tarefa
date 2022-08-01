@@ -1,5 +1,5 @@
 import React from "react";
-import '../componetes/Task.css'
+import './Task.css'
  
 const Task = ({task}) => {
     return (  <div className="task-container">
